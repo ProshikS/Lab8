@@ -1,0 +1,14 @@
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\Lab8.AssemblyInfo.cs
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Prokhor\source\repos\Lab8\Lab8\bin\Debug\net8.0\Lab8.exe
+C:\Users\Prokhor\source\repos\Lab8\Lab8\bin\Debug\net8.0\Lab8.deps.json
+C:\Users\Prokhor\source\repos\Lab8\Lab8\bin\Debug\net8.0\Lab8.runtimeconfig.json
+C:\Users\Prokhor\source\repos\Lab8\Lab8\bin\Debug\net8.0\Lab8.dll
+C:\Users\Prokhor\source\repos\Lab8\Lab8\bin\Debug\net8.0\Lab8.pdb
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\Lab8.dll
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\refint\Lab8.dll
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\Lab8.pdb
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\Lab8.genruntimeconfig.cache
+C:\Users\Prokhor\source\repos\Lab8\Lab8\obj\Debug\net8.0\ref\Lab8.dll
